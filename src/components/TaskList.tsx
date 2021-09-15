@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 
 import '../styles/tasklist.scss'
 //testando commit
+//asasas
 import { FiTrash, FiCheckSquare } from 'react-icons/fi'
 import { numberLiteralTypeAnnotation } from '@babel/types';
 
